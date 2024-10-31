@@ -22,3 +22,19 @@ SignalFraming.py: Segments EEG or fNIRS signals into frames based on duration an
 BandPassFiltering.py: Applies a bandpass filter to EEG data within specified frequency ranges.
 
 Ensure that all necessary dependencies are installed to use these modules effectively.
+
+# Datasets
+
+Dataset 1 from Shin et al., DOI: 10.1038/sdata.2018.3
+Dataset link: https://doi.org/10.14279/depositonce-5830.2
+
+Dataset 2 from Shin et al., DOI: 10.1109/TNSRE.2016.2628057
+Dataset link: https://doc.ml.tu-berlin.de/hBCI/
+
+Additional Dataset 1 from Buccino et al., DOI: 10.1371/journal.pone.0146610
+Dataset links: http://dx.doi.org/10.6084/m9.figshare.1619640 and http://dx.doi.org/10.6084/m9.figshare.1619641
+
+Additional Dataset 2 from Shin et al., DOI: 10.1371/journal.pone.0196359
+Dataset link: https://doi.org/10.6084/m9.figshare.5900842.v1
+
+# If you use this code, please cite my article:
