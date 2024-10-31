@@ -6,20 +6,23 @@ This study propose a novel temporal attention fusion network (TAFN) with a custo
 # TAFN dataset processing utilities
 This repository contains modular code components for processing and analyzing EEG and fNIRS data from the TAFN model.
 
-# Files
-Model.py: Defines a deep learning TAFN model suitable for EEG and fNIRS data.
+## Files
 
-CustomLoss.py: Contains a custom loss function for use with the proposed TAFN model.
+1. **Model.py**: Defines a deep learning TAFN model suitable for EEG and fNIRS data.
 
-Data_Augmentation.py: Implements data augmentation techniques to enhance EEG and fNIRS data variability.
+2. **CustomLoss.py**: Contains a custom loss function for use with the proposed TAFN model.
 
-Features_Extraction_fNIRS.py: Extracts features from fNIRS data.
+3. **Data_Augmentation.py**: Implements data augmentation techniques to enhance EEG and fNIRS data variability.
 
-Features_Extraction_EEG.py: Extracts features from EEG data.
+4. **Features_Extraction_fNIRS.py**: Extracts features from fNIRS data.
 
-SignalFraming.py: Segments EEG or fNIRS signals into frames based on duration and overlap.
+5. **Features_Extraction_EEG.py**: Extracts features from EEG data.
 
-BandPassFiltering.py: Applies a bandpass filter to EEG data within specified frequency ranges.
+6. **SignalFraming.py**: Segments EEG or fNIRS signals into frames based on duration and overlap.
+
+7. **BandPassFiltering.py**: Applies a bandpass filter to EEG data within specified frequency ranges.
+
+---
 
 Ensure that all necessary dependencies are installed to use these modules effectively.
 
