@@ -23,7 +23,7 @@ BandPassFiltering.py: Applies a bandpass filter to EEG data within specified fre
 
 Ensure that all necessary dependencies are installed to use these modules effectively.
 
-# If you use this code, please cite my article:
+# If you use this code, please cite our article:
 
 
 # Datasets used in the article
