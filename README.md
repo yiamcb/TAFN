@@ -29,7 +29,7 @@ Ensure that all necessary dependencies are installed to use these modules effect
 # If you use this code, please cite our article:
 
 
-# Publicly available datasets used in the article
+# Publicly available datasets used in the article:
 
 Dataset 1 from Shin et al. https://doi.org/10.1038/sdata.2018.3
 
