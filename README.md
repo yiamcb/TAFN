@@ -1,5 +1,5 @@
 # TAFN
-Temporal Attention Fusion Network with custom loss function for EEG-fNIRS classification
+Temporal attention fusion network with custom loss function for EEG-fNIRS classification
 
 This study proposes a novel temporal attention fusion network (TAFN) with a custom loss function. The TAFN model incorporates attention mechanisms into its long short-term memory and temporal convolutional layers to accurately capture spatial and temporal dependencies in the EEG–fNIRS data. The custom loss function combines class weights and asymmetric loss terms to ensure precise classification of cognitive and motor intentions while addressing class imbalance issues.
 
