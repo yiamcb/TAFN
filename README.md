@@ -26,7 +26,7 @@ This repository contains modular code components for processing and analyzing EE
 
 Ensure that all necessary dependencies are installed to use these modules effectively.
 
-# Please cite our article:
+# If you find this work useful, please cite our article:
 
 Bunterngchit, C., Wang, J., Su, J., Wang, Y., Liu, S., & Hou, Z.-G. (2024). Temporal Attention Fusion Network with Custom Loss Function for EEG–fNIRS Classification. Journal of Neural Engineering. 21, 066016. https://doi.org/10.1088/1741-2552/ad8e86
 
